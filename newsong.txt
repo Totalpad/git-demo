@@ -12,3 +12,6 @@ Let's try new command revert
 
 
 New branch feature is created 
+
+
+3 commit added for master mode 
