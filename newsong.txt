@@ -8,10 +8,3 @@ How are you doing motherfucker ?
 So I am adding something here 
 
 
-Let's try new command revert 
-
-
-New branch feature is created 
-
-
-3 commit added for master mode 
